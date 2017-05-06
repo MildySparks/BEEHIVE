@@ -1,5 +1,5 @@
-Building BATA
+Building BeeHive
 
 See doc/build-*.md for instructions on building bitcoind,
 the intended-for-services, no-graphical-interface, reference
-implementation of BATA.
+implementation of BeeHive.
